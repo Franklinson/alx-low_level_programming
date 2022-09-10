@@ -5,7 +5,7 @@
 /**
  * main -Entry point
  *
- * Retur: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -20,8 +20,7 @@ int main(void)
 		if (low != e && low != q)
 			putchar(low);
 	}
-
-	putchar('\n');
+			putchar('\n');
 
 	return (0);
 }
