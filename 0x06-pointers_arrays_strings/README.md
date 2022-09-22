@@ -1,1 +1,1 @@
-0x06-pointers _arrays _strings
+My task for alx 0x06
